@@ -12,3 +12,5 @@ This new assignment consists of four technical analysis deliverables. You will s
     •	Deliverable 2: Extract and Transform the Wikipedia Data<br>
     •	Deliverable 3: Extract and Transform the Kaggle data<br>
     •	Deliverable 4: Create the Movie Database<br>
+
+Thank You
