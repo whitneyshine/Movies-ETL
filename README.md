@@ -13,8 +13,8 @@ This new assignment consists of four technical analysis deliverables. You will s
     •	Deliverable 3: Extract and Transform the Kaggle data<br>
     •	Deliverable 4: Create the Movie Database<br>
 
-[movies_query](Resources/movies_query.png)<br><br>
+![movies_query](Resources/movies_query.png)<br><br>
 
-[ratings_query](Resources/ratings_query.png)<br><br>
+![ratings_query](Resources/ratings_query.png)<br><br>
 
 Thank You and have a good day.
